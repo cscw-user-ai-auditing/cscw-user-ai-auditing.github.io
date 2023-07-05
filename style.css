@@ -1,0 +1,18 @@
+:root {
+    --accent-color: #3653e4;
+}   
+
+body {
+    color: #222;
+}
+
+.accent-bg {
+    background-color: var(--accent-color);
+}
+.accent-txt {
+    color: var(--accent-color);
+}
+.text-section-padded {
+    padding-left: 5%;
+    padding-right: 5%;
+}
