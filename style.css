@@ -16,3 +16,7 @@ body {
     padding-left: 5%;
     padding-right: 5%;
 }
+
+a, a:hover, a:active, a:focus {
+    outline: 0 !important;
+ }
